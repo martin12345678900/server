@@ -187,39 +187,41 @@
                 "_id": "a9bae6d8-793e-46c4-a9db-deb9e3484909"
             }
         },
-        "cars": [{
-            "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
-            "brand": "Audi",
-            "model": "A3",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-            "year": 2018,
-            "imageUrl": "/images/audia3.jpg",
-            "price": 25000,
-            "_createdOn": 1616162253496,
-            "_id": "3987279d-0ad4-4afb-8ca9-5b256ae3b298"
-        },
-        {
-            "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
-            "brand": "Mercedes",
-            "model": "A-class",
-            "description": "Voluptate expedita odio tempore aliquam rem neque sunt dignissimos ratione nulla quod dolore dolor animi cupiditate, labore ad maiores?",
-            "year": 2016,
-            "imageUrl": "/images/benz.jpg",
-            "price": 27000,
-            "_createdOn": 1616162253496,
-            "_id": "8f414b4f-ab39-4d36-bedb-2ad69da9c830"
-        },
-        {
-            "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
-            "brand": "BMW",
-            "model": "3 Series",
-            "description": "Quisquam modi vitae explicabo fugit delectus voluptate fuga nisi quo impedit temporibus est magni optio, at, natus odit maxime vero corporis unde sequi? Minima atque, laborum impedit deserunt sequi assumenda laudantium vitae corporis?",
-            "year": 2016,
-            "imageUrl": "/images/bmw.jpg",
-            "price": 22000,
-            "_createdOn": 1616162253496,
-            "_id": "3a432947-3e43-42a8-bcbc-100d2b199892"
-        }],
+        "cars": [
+            {
+                "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+                "brand": "Audi",
+                "model": "A3",
+                "description": "The Audi A3 has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 1968 cc while the Petrol engine is 1395 cc . It is available with the Automatic transmission. Depending upon the variant and fuel type the A3 has a mileage of 19.2 to 20.38 kmpl. The A3 is a 5 seater and has length of 4456mm, width of 1960mm and a wheelbase of 2637mm.",
+                "year": 2018,
+                "imageUrl": "/images/audia3.jpg",
+                "price": 25000,
+                "_createdOn": 1616162253496,
+                "_id": "3987279d-0ad4-4afb-8ca9-5b256ae3b298"
+            },
+            {
+                "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+                "brand": "Mercedes",
+                "model": "A-class",
+                "description": "The Mercedes-Benz A-Class is a subcompact executive car (regular subcompact in its first two generations) produced by the German automobile manufacturer Mercedes-Benz. The first generation (W168) was introduced in 1997, the second generation model (W169) appeared in late 2004 and the third generation model (W176) was launched in 2012.",
+                "year": 2016,
+                "imageUrl": "/images/benz.jpg",
+                "price": 27000,
+                "_createdOn": 1616162253496,
+                "_id": "8f414b4f-ab39-4d36-bedb-2ad69da9c830"
+            },
+            {
+                "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+                "brand": "BMW",
+                "model": "3 Series",
+                "description": "The BMW 3 Series is a line of compact executive cars manufactured by the German automaker BMW since May 1975. It is the successor to the 02 Series and has been produced in seven different generations.",
+                "year": 2016,
+                "imageUrl": "/images/bmw.jpg",
+                "price": 22000,
+                "_createdOn": 1616162253496,
+                "_id": "3a432947-3e43-42a8-bcbc-100d2b199892"
+            }
+        ],
         "likes": {},
         "ideas": {
             "833e0e57-71dc-42c0-b387-0ce0caf5225e": {
