@@ -1,6 +1,6 @@
 function initPlugin(settings) {
     const util = {
-        throttle: true
+        throttle: false
     };
 
     return function decoreateContext(context, request) {
