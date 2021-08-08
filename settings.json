@@ -180,7 +180,7 @@
                 "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
                 "title": "Gozilla Vs Kong",
                 "description": "Godzilla vs. Kong is a 2021 American monster film directed by Adam Wingard. A sequel to Kong: Skull Island (2017) and Godzilla: King of the Monsters (2019), it is the fourth film in Legendary's MonsterVerse. It is also the 36th film in the Godzilla franchise, the 12th film in the King Kong franchise, and the fourth Godzilla film to be completely produced by a Hollywood studio.[b] The film stars Alexander Skarsgård, Millie Bobby Brown, Rebecca Hall, Brian Tyree Henry, Shun Oguri, Eiza González, Julian Dennison, Lance Reddick, Kyle Chandler, and Demián Bichir. In the film, Kong clashes with Godzilla as humans lure the ape into the Hollow Earth to retrieve a power source for a secret weapon to stop Godzilla's mysterious rampages.",
-                "img": "/images/gozilla vs king-kong.jpg",
+                "img": "../../../../images/gozilla vs king-kong.jpg",
                 "_createdOn": 1614935055353,
                 "_id": "1240549d-f0e0-497e-ab99-eb8f703713d7"
             },
@@ -188,7 +188,7 @@
                 "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
                 "title": "Tenet",
                 "description": "Tenet is a 2020 science fiction action thriller film written and directed by Christopher Nolan, who produced it with Emma Thomas. A co-production between the United Kingdom and United States, it stars John David Washington, Robert Pattinson, Elizabeth Debicki, Dimple Kapadia, Michael Caine, and Kenneth Branagh. The film follows a secret agent who learns to manipulate the flow of time to prevent an attack from the future that threatens to annihilate the present world.",
-                "img": "/images/Tenet.jpg",
+                "img": "../../../../images/Tenet.jpg",
                 "_createdOn": 1614935181470,
                 "_id": "143e5265-333e-4150-80e4-16b61de31aa0"
             },
@@ -196,7 +196,7 @@
                 "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
                 "title": "The Tomorow War",
                 "description": "The Tomorrow War is a space sim based on the trilogy of novels written by a famous Russian author, Alexander Zorich. These books are dedicated to the intergalactic war of two mighty empires. Along with the graduates of the military-space academy players will witness different stages of the conflict between United Earth Empire and Konkordia.",
-                "img": "/images/The tomorrow war.jpg",
+                "img": "../../../../images/The tomorrow war.jpg",
                 "_createdOn": 1614935268135,
                 "_id": "a9bae6d8-793e-46c4-a9db-deb9e3484909"
             }
