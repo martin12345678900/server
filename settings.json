@@ -210,6 +210,12 @@
                "totalPrice": 0
             }
         },
+        "user": {
+            "HPQ0W7VoBqtI4poFgh6B": {
+               "userAuthState": {},
+               "isAuthenticated": false
+            }
+        },
         "cars": [
             {
                 "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
