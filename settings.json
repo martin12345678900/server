@@ -204,9 +204,11 @@
             }
         },
         "cart": {
-            "items": [],
-            "totalQuantity": 0,
-            "totalPrice": 0
+            "9Rxf5qvVFHR0YcFpZgP5": {
+               "items": [],
+               "totalQuantity": 0,
+               "totalPrice": 0
+            }
         },
         "cars": [
             {
