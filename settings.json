@@ -204,16 +204,9 @@
             }
         },
         "cart": {
-            "a9bae6d8-793e-46c4-a9db-deb9e3484909": {
-                "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
-                "title": "The Tomorow War",
-                "description": "The Tomorrow War is a space sim based on the trilogy of novels written by a famous Russian author, Alexander Zorich. These books are dedicated to the intergalactic war of two mighty empires. Along with the graduates of the military-space academy players will witness different stages of the conflict between United Earth Empire and Konkordia.",
-                "img": "https://tse4.mm.bing.net/th/id/OIP.FDMPxGjvIlUCiaG0tNzRrwHaK9?pid=ImgDet&rs=1",
-                "price": "20",
-                "quantity": 1,
-                "_createdOn": 1614935268135,
-                "_id": "a9bae6d8-793e-46c4-a9db-deb9e3484909"
-            }
+            "items": [],
+            "totalQuantity": 0,
+            "totalPrice": 0
         },
         "cars": [
             {
