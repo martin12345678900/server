@@ -203,13 +203,7 @@
                 "_id": "a9bae6d8-793e-46c4-a9db-deb9e3484909"
             }
         },
-        "cart": {
-            "9Rxf5qvVFHR0YcFpZgP5": {
-               "items": [],
-               "totalQuantity": 0,
-               "totalPrice": 0
-            }
-        },
+        "cart": [],
         "user": {
             "HPQ0W7VoBqtI4poFgh6B": {
                "userAuthState": {},
